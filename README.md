@@ -7,7 +7,7 @@
 
 4. I have used css for designing the form .
 
-5. I have use "require" attribute for fill inpute before submitting.  
+5. I have use "require" attribute for fill input before submitting.  
 
 6. I have pushed my project on github.
    1. create a folder on click plus icon.
